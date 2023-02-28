@@ -7,3 +7,5 @@ parent:
   <h1> Etherbft </h1>
 </div>
 
+Evm compatibility chain based on pbft+pos consensus
+
